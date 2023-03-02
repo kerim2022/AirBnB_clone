@@ -1,1 +1,1 @@
-https://github.com/kerim2022/AirBnB_clone/blob/master/images/Screenshot%202023-02-22%20170722.png
+![Screenshot 2023-02-22 170722](https://user-images.githubusercontent.com/111186592/222467143-cf2dce63-2b03-469a-8983-d21f5ca1075a.png)
